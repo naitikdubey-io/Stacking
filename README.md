@@ -55,4 +55,3 @@ Feel free to fork this repository, experiment with different meta-learners (like
 
 ---
 
-### Would you like me to help you write a "Results" section with a comparison table once you have your final accuracy scores?
