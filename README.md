@@ -1,6 +1,4 @@
-Here is a clean, professional, and comprehensive `README.md` template for your GitHub repository. It’s designed to explain the "why" and "how" of stacking to anyone visiting your profile.
 
----
 
 # Stacking Ensemble Learning Implementation
 
